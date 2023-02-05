@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "testcrypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/scudscud/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/scudscud/test/issues"
+  },
+  "homepage": "https://gitlab.com/scudscud/test#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
